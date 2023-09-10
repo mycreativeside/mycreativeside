@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mycreativeside
+- 👋 Hi, I’m @mycreativeside (Haley)
 - 👀 I’m interested in ... learning to code fun projects
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... anything, really
